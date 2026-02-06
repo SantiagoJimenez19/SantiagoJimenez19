@@ -1,4 +1,6 @@
-## Hola!  👋 soy estudiante de matematicas apicadas en la UAEH
+## Hola!  👋 
+soy estudiante de matematicas apicadas en la UAEH
+
 
 <!--
 **SantiagoJimenez19/SantiagoJimenez19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
